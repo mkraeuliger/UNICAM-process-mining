@@ -1,2 +1,2 @@
-# UNICAM-process-mining
-process-mining project
+# UNICAM-Process-Mining Project
+URL to documentation: 
